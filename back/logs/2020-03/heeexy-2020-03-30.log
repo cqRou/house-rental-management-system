@@ -1,0 +1,3 @@
+2020-03-30 21:33:50.452 INFO  --- [StartupInfoLogger.java:50][restartedMain] - Starting MyApplication on wei-PC with PID 8036 (started by wei in C:\毕业设计\毕业设计代码\SpringBoot-Shiro-Vue-master\back)
+2020-03-30 21:33:50.458 INFO  --- [SpringApplication.java:675][restartedMain] - No active profile set, falling back to default profiles: default
+2020-03-30 21:34:18.555 INFO  --- [StartupInfoLogger.java:59][restartedMain] - Started MyApplication in 30.063 seconds (JVM running for 46.103)

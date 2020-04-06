@@ -1,0 +1,17 @@
+spring:
+  datasource:
+      url: jdbc:mysql://localhost:3306/example?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+      username: root
+      password: root
+mybatis:
+   config-location: classpath:/mybatis.xml
+   mapper-locations: classpath:/mapper/*.xml
+   type-aliases-package: com.heeexy.example.**.entity
+
+#server:
+#  port: 8088
+
+mybatisPlus:
+  mapperLocations: classpath:/mapper/*.xml
+  typeAliasesPackage: com.heeexy.example.entity
+  defaultStatementTimeout: 120
