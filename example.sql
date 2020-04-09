@@ -3,15 +3,15 @@
 
  Source Server         : localhost
  Source Server Type    : MySQL
- Source Server Version : 50560
+ Source Server Version : 50559
  Source Host           : localhost:3306
  Source Schema         : example
 
  Target Server Type    : MySQL
- Target Server Version : 50560
+ Target Server Version : 50559
  File Encoding         : 65001
 
- Date: 28/03/2020 16:56:35
+ Date: 07/04/2020 21:15:38
 */
 
 SET NAMES utf8mb4;
@@ -130,7 +130,7 @@ CREATE TABLE `route`  (
 -- ----------------------------
 DROP TABLE IF EXISTS `sys_permission`;
 CREATE TABLE `sys_permission`  (
-  `id` bigint(20) NOT NULL DEFAULT 0 AUTO_INCREMENT COMMENT '自定id,主要供前端展示权限列表分类排序使用.',
+  `id` bigint(20) NOT NULL DEFAULT 0 COMMENT '自定id,主要供前端展示权限列表分类排序使用.',
   `menu_code` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '' COMMENT '归属菜单,前端判断并展示菜单使用,',
   `menu_name` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '' COMMENT '菜单的中文释义',
   `permission_code` varchar(255) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT '' COMMENT '权限的代码/通配符,对应代码中@RequiresPermissions 的value',
@@ -142,7 +142,7 @@ CREATE TABLE `sys_permission`  (
   `upd_by` varchar(32) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '更新者',
   `edit_flag` varchar(32) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL COMMENT '修订状态：1100.10 新建 1100.80 已删除',
   PRIMARY KEY (`id`) USING BTREE
-) ENGINE = InnoDB AUTO_INCREMENT = 705 CHARACTER SET = utf8 COLLATE = utf8_general_ci COMMENT = '后台权限表' ROW_FORMAT = Compact;
+) ENGINE = InnoDB CHARACTER SET = utf8 COLLATE = utf8_general_ci COMMENT = '后台权限表' ROW_FORMAT = Compact;
 
 -- ----------------------------
 -- Records of sys_permission
