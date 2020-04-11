@@ -59,11 +59,12 @@
             this.loading = true
             this.$store.dispatch('Login', this.loginForm).then(data => {
               this.loading = false
-              if ("success" === data.result) {
-                this.$router.push({path: '/'})
-              } else {
-                this.$message.error("账号/密码错误");
-              }
+              this.$router.push({path: '/'})
+              // if ("success" === data.result) {
+              //   this.$router.push({path: '/'})
+              // } else {
+              //   this.$message.error("账号/密码错误");
+              // }
             }).catch(() => {
               this.loading = false
             })

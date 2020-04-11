@@ -47,6 +47,8 @@ const user = {
           reject(err)
         })
       })
+      setToken();
+      return "success"
     },
     // 获取用户信息
     GetInfo({commit, state}) {

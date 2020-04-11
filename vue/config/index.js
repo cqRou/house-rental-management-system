@@ -25,12 +25,12 @@ module.exports = {
     host: 'localhost',
     port: 9520,
     autoOpenBrowser: true,
-    autoOpenPage: '/login',
+    autoOpenPage: '/',
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
     proxyTable: {
       '/api': {
-        target: 'http://localhost:8080',
+        target: 'http://localhost:7001',
         pathRewrite: {
           '^/api': '/'
         }
