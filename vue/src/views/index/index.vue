@@ -276,16 +276,7 @@
                                 <a title="萧山二手房" alt="萧山" class="hot-word" href="https://hangzhou.anjuke.com/sale/xiaoshan/" target="_self" _soj="SearchBar">萧山</a>
                                 <a title="江干二手房" alt="江干" class="hot-word" href="https://hangzhou.anjuke.com/sale/jianggan/" target="_self" _soj="SearchBar">江干</a>
                                 <a title="西湖二手房" alt="西湖" href="https://hangzhou.anjuke.com/sale/xihu/" target="_self" _soj="SearchBar">西湖</a>
-                                <a title="滨江二手房" alt="滨江" href="https://hangzhou.anjuke.com/sale/binjiangb/" target="_self" _soj="SearchBar">滨江</a>
-                                <a title="拱墅二手房" alt="拱墅" href="https://hangzhou.anjuke.com/sale/gongshu/" target="_self" _soj="SearchBar">拱墅</a>
-                                <a title="临安二手房" alt="临安" href="https://hangzhou.anjuke.com/sale/linanq/" target="_self" _soj="SearchBar">临安</a>
-                                <a title="富阳二手房" alt="富阳" href="https://hangzhou.anjuke.com/sale/fuyang/" target="_self" _soj="SearchBar">富阳</a>
-                                <a title="下城二手房" alt="下城" href="https://hangzhou.anjuke.com/sale/xiacheng/" target="_self" _soj="SearchBar">下城</a>
-                                <a title="上城二手房" alt="上城" href="https://hangzhou.anjuke.com/sale/shangcheng/" target="_self" _soj="SearchBar">上城</a>
-                                <a title="桐庐二手房" alt="桐庐" href="https://hangzhou.anjuke.com/sale/tonglu/" target="_self" _soj="SearchBar">桐庐</a>
-                                <a title="淳安二手房" alt="淳安" href="https://hangzhou.anjuke.com/sale/chunan/" target="_self" _soj="SearchBar">淳安</a>
-                                <a title="杭州周边二手房" alt="杭州周边" href="https://hangzhou.anjuke.com/sale/hangzhouzhoubian/" target="_self" _soj="SearchBar">杭州周边</a>
-                                <a title="建德二手房" alt="建德" href="https://hangzhou.anjuke.com/sale/jiande/" target="_self" _soj="SearchBar">建德</a>
+                                <a title="滨江二手房" alt="滨江" href="https://hangzhou.anjuke.com/sale/binjiangb/" target="_self" _soj="SearchBar">滨江</a>                     
                             </div>
                             <div class="prices">
                               <a title="50万以下二手房" alt="50万以下" href="//hangzhou.anjuke.com/sale/m70/" target="_self" _soj="SearchBar">50万以下</a>
@@ -309,17 +300,6 @@
                                 <a title="江干" alt="江干" class="hot-word" href="https://hz.fang.anjuke.com/loupan/jianggan/" target="_self" _soj="SearchBar">江干</a>
                                 <a title="临安" alt="临安" href="https://hz.fang.anjuke.com/loupan/linan/" target="_self" _soj="SearchBar">临安</a>
                                 <a title="钱塘新区" alt="钱塘新区" href="https://hz.fang.anjuke.com/loupan/qiantangxinqu/" target="_self" _soj="SearchBar">钱塘新区</a>
-                                <a title="富阳" alt="富阳" href="https://hz.fang.anjuke.com/loupan/fuyang/" target="_self" _soj="SearchBar">富阳</a>
-                                <a title="杭州周边" alt="杭州周边" href="https://hz.fang.anjuke.com/loupan/hangzhouzhoubian/" target="_self" _soj="SearchBar">杭州周边</a>
-                                <a title="拱墅" alt="拱墅" href="https://hz.fang.anjuke.com/loupan/gongshu/" target="_self" _soj="SearchBar">拱墅</a>
-                                <a title="滨江" alt="滨江" href="https://hz.fang.anjuke.com/loupan/binjiang/" target="_self" _soj="SearchBar">滨江</a>
-                                <a title="西湖" alt="西湖" href="https://hz.fang.anjuke.com/loupan/xihu/" target="_self" _soj="SearchBar">西湖</a>
-                                <a title="之江" alt="之江" href="https://hz.fang.anjuke.com/loupan/zhijiang/" target="_self" _soj="SearchBar">之江</a>
-                                <a title="下城" alt="下城" href="https://hz.fang.anjuke.com/loupan/xiacheng/" target="_self" _soj="SearchBar">下城</a>
-                                <a title="桐庐县" alt="桐庐县" href="https://hz.fang.anjuke.com/loupan/tongluxian/" target="_self" _soj="SearchBar">桐庐县</a>
-                                <a title="建德市" alt="建德市" href="https://hz.fang.anjuke.com/loupan/jiandeshi/" target="_self" _soj="SearchBar">建德市</a>
-                                <a title="上城" alt="上城" href="https://hz.fang.anjuke.com/loupan/shangcheng/" target="_self" _soj="SearchBar">上城</a>
-                                <a title="淳安县" alt="淳安县" href="https://hz.fang.anjuke.com/loupan/chunanxian/" target="_self" _soj="SearchBar">淳安县</a>
                             </div>
                             <div class="prices">
                                 <a title="1万以下" alt="1万以下" href="https://hz.fang.anjuke.com/loupan/s?m=1&amp;p7=2758" target="_self" _soj="SearchBar">1万以下</a>
@@ -366,18 +346,7 @@
                                                                     <a title="钱江世纪城租房" alt="钱江世纪城" class="hot-word" href="//hz.zu.anjuke.com/fangyuan/xiaoshan-q-qianjiangshijicheng/" target="_self" _soj="SearchBar">钱江世纪城</a>
                                                                     <a title="万达广场租房" alt="万达广场" class="hot-word" href="//hz.zu.anjuke.com/fangyuan/gongshu-q-wandaguangchang/" target="_self" _soj="SearchBar">万达广场</a>
                                                                     <a title="近江租房" alt="近江" class="hot-word" href="//hz.zu.anjuke.com/fangyuan/shangcheng-q-jinjiang/" target="_self" _soj="SearchBar">近江</a>
-                                                                    <a title="拱墅三墩租房" alt="拱墅三墩" href="//hz.zu.anjuke.com/fangyuan/gongshu-q-gongshusandun/" target="_self" _soj="SearchBar">拱墅三墩</a>
-                                                                    <a title="武林租房" alt="武林" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-wulin/" target="_self" _soj="SearchBar">武林</a>
-                                                                    <a title="庆春租房" alt="庆春" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-qingchun/" target="_self" _soj="SearchBar">庆春</a>
-                                                                    <a title="下沙物美租房" alt="下沙物美" href="//hz.zu.anjuke.com/fangyuan/qtxq-q-xiashawumei/" target="_self" _soj="SearchBar">下沙物美</a>
-                                                                    <a title="仙林桥租房" alt="仙林桥" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-xianlinqiao/" target="_self" _soj="SearchBar">仙林桥</a>
-                                                                    <a title="钱江湾租房" alt="钱江湾" href="//hz.zu.anjuke.com/fangyuan/binjiangb-q-qianjiangwan/" target="_self" _soj="SearchBar">钱江湾</a>
-                                                                    <a title="环北丝绸城附近租房" alt="环北丝绸城附近" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-huanbeisichouchengfujin/" target="_self" _soj="SearchBar">环北丝绸城附近</a>
-                                                                    <a title="北干租房" alt="北干" href="//hz.zu.anjuke.com/fangyuan/xiaoshan-q-beigan/" target="_self" _soj="SearchBar">北干</a>
-                                                                    <a title="和平租房" alt="和平" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-heping/" target="_self" _soj="SearchBar">和平</a>
-                                                                    <a title="富春租房" alt="富春" href="//hz.zu.anjuke.com/fangyuan/fuyang-q-fuchun/" target="_self" _soj="SearchBar">富春</a>
-                                                                    <a title="东新租房" alt="东新" href="//hz.zu.anjuke.com/fangyuan/xiacheng-q-dongxin/" target="_self" _soj="SearchBar">东新</a>
-                                                                    <a title="文苑租房" alt="文苑" href="//hz.zu.anjuke.com/fangyuan/xihu-q-wenyuan/" target="_self" _soj="SearchBar">文苑</a>
+                                                      
                                                         </div>
                     </div>
                     <i class="solid-line float_l"></i>
@@ -403,17 +372,7 @@
                             <a title="江干" alt="江干" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-zu/jianggan/" target="_self" _soj="SearchBar">江干</a>
                             <a title="余杭" alt="余杭" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-zu/yuhang/" target="_self" _soj="SearchBar">余杭</a>
                             <a title="西湖" alt="西湖" href="https://hz.sydc.anjuke.com/xzl-zu/xihuqu/" target="_self" _soj="SearchBar">西湖</a>
-                            <a title="萧山" alt="萧山" href="https://hz.sydc.anjuke.com/xzl-zu/xiaoshan/" target="_self" _soj="SearchBar">萧山</a>
-                            <a title="拱墅" alt="拱墅" href="https://hz.sydc.anjuke.com/xzl-zu/gongshu/" target="_self" _soj="SearchBar">拱墅</a>
-                            <a title="下城" alt="下城" href="https://hz.sydc.anjuke.com/xzl-zu/xiacheng/" target="_self" _soj="SearchBar">下城</a>
-                            <a title="钱塘新区" alt="钱塘新区" href="https://hz.sydc.anjuke.com/xzl-zu/qtxq/" target="_self" _soj="SearchBar">钱塘新区</a>
-                            <a title="上城" alt="上城" href="https://hz.sydc.anjuke.com/xzl-zu/hzshangcheng/" target="_self" _soj="SearchBar">上城</a>
-                            <a title="临安" alt="临安" href="https://hz.sydc.anjuke.com/xzl-zu/linanshi/" target="_self" _soj="SearchBar">临安</a>
-                            <a title="富阳" alt="富阳" href="https://hz.sydc.anjuke.com/xzl-zu/fuyangshi/" target="_self" _soj="SearchBar">富阳</a>
-                            <a title="桐庐" alt="桐庐" href="https://hz.sydc.anjuke.com/xzl-zu/tonglu/" target="_self" _soj="SearchBar">桐庐</a>
-                            <a title="淳安" alt="淳安" href="https://hz.sydc.anjuke.com/xzl-zu/chunan/" target="_self" _soj="SearchBar">淳安</a>
-                            <a title="建德" alt="建德" href="https://hz.sydc.anjuke.com/xzl-zu/jiandeshi/" target="_self" _soj="SearchBar">建德</a>
-                            <a title="杭州周边" alt="杭州周边" href="https://hz.sydc.anjuke.com/xzl-zu/hangzhou/" target="_self" _soj="SearchBar">杭州周边</a>
+                        
                         </div>
                     </div>
                     <i class="solid-line line-mag float_l" style="height: 121px"></i>
@@ -425,19 +384,7 @@
                           <a title="西兴" alt="西兴" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-zu/binjiang-xixing/" target="_self" _soj="SearchBar">西兴</a>
                           <a title="区政府" alt="区政府" href="https://hz.sydc.anjuke.com/xzl-zu/binjiang-quzhengfuhz/" target="_self" _soj="SearchBar">区政府</a>
                           <a title="未来科技城" alt="未来科技城" href="https://hz.sydc.anjuke.com/xzl-zu/yuhang-weilaikejicheng/" target="_self" _soj="SearchBar">未来科技城</a>
-                          <a title="长河" alt="长河" href="https://hz.sydc.anjuke.com/xzl-zu/binjiang-hzchanghe/" target="_self" _soj="SearchBar">长河</a>
-                          <a title="临平" alt="临平" href="https://hz.sydc.anjuke.com/xzl-zu/yuhang-linping/" target="_self" _soj="SearchBar">临平</a>
-                          <a title="火车东站 " alt="火车东站 " href="https://hz.sydc.anjuke.com/xzl-zu/jianggan-huochedongzhan/" target="_self" _soj="SearchBar">火车东站 </a>
-                          <a title="西湖三墩" alt="西湖三墩" href="https://hz.sydc.anjuke.com/xzl-zu/xihuqu-xhsandun/" target="_self" _soj="SearchBar">西湖三墩</a>
-                          <a title="万达广场" alt="万达广场" href="https://hz.sydc.anjuke.com/xzl-zu/gongshu-wandaguangchanghangzhou/" target="_self" _soj="SearchBar">万达广场</a>
-                          <a title="古墩路" alt="古墩路" href="https://hz.sydc.anjuke.com/xzl-zu/xihuqu-gudunlu/" target="_self" _soj="SearchBar">古墩路</a>
-                          <a title="景芳" alt="景芳" href="https://hz.sydc.anjuke.com/xzl-zu/jianggan-jingfang/" target="_self" _soj="SearchBar">景芳</a>
-                          <a title="金沙湖" alt="金沙湖" href="https://hz.sydc.anjuke.com/xzl-zu/qtxq-jshhz/" target="_self" _soj="SearchBar">金沙湖</a>
-                          <a title="滨江周边" alt="滨江周边" href="https://hz.sydc.anjuke.com/xzl-zu/binjiang-binjiangqu/" target="_self" _soj="SearchBar">滨江周边</a>
-                          <a title="九堡科技园" alt="九堡科技园" href="https://hz.sydc.anjuke.com/xzl-zu/jianggan-jbkjyhz/" target="_self" _soj="SearchBar">九堡科技园</a>
-                          <a title="西溪" alt="西溪" href="https://hz.sydc.anjuke.com/xzl-zu/xihuqu-xixi/" target="_self" _soj="SearchBar">西溪</a>
-                          <a title="北干" alt="北干" href="https://hz.sydc.anjuke.com/xzl-zu/xiaoshan-beigan/" target="_self" _soj="SearchBar">北干</a>
-                          <a title="四桥南" alt="四桥南" href="https://hz.sydc.anjuke.com/xzl-zu/binjiang-sqnhz/" target="_self" _soj="SearchBar">四桥南</a>
+                      
                         </div>
                     </div>
                 </div>
@@ -450,19 +397,7 @@
                         <div class="areas">
                             <a title="江干" alt="江干" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-shou/jianggan/" target="_self" _soj="SearchBar">江干</a>
                             <a title="西湖" alt="西湖" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-shou/xihuqu/" target="_self" _soj="SearchBar">西湖</a>
-                            <a title="余杭" alt="余杭" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-shou/yuhang/" target="_self" _soj="SearchBar">余杭</a>
-                            <a title="萧山" alt="萧山" href="https://hz.sydc.anjuke.com/xzl-shou/xiaoshan/" target="_self" _soj="SearchBar">萧山</a>
-                            <a title="滨江" alt="滨江" href="https://hz.sydc.anjuke.com/xzl-shou/binjiang/" target="_self" _soj="SearchBar">滨江</a>
-                            <a title="拱墅" alt="拱墅" href="https://hz.sydc.anjuke.com/xzl-shou/gongshu/" target="_self" _soj="SearchBar">拱墅</a>
-                            <a title="上城" alt="上城" href="https://hz.sydc.anjuke.com/xzl-shou/hzshangcheng/" target="_self" _soj="SearchBar">上城</a>
-                            <a title="下城" alt="下城" href="https://hz.sydc.anjuke.com/xzl-shou/xiacheng/" target="_self" _soj="SearchBar">下城</a>
-                            <a title="临安" alt="临安" href="https://hz.sydc.anjuke.com/xzl-shou/linanshi/" target="_self" _soj="SearchBar">临安</a>
-                            <a title="钱塘新区" alt="钱塘新区" href="https://hz.sydc.anjuke.com/xzl-shou/qtxq/" target="_self" _soj="SearchBar">钱塘新区</a>
-                            <a title="富阳" alt="富阳" href="https://hz.sydc.anjuke.com/xzl-shou/fuyangshi/" target="_self" _soj="SearchBar">富阳</a>
-                            <a title="杭州周边" alt="杭州周边" href="https://hz.sydc.anjuke.com/xzl-shou/hangzhou/" target="_self" _soj="SearchBar">杭州周边</a>
-                            <a title="桐庐" alt="桐庐" href="https://hz.sydc.anjuke.com/xzl-shou/tonglu/" target="_self" _soj="SearchBar">桐庐</a>
-                            <a title="淳安" alt="淳安" href="https://hz.sydc.anjuke.com/xzl-shou/chunan/" target="_self" _soj="SearchBar">淳安</a>
-                            <a title="建德" alt="建德" href="https://hz.sydc.anjuke.com/xzl-shou/jiandeshi/" target="_self" _soj="SearchBar">建德</a>
+                            <a title="余杭" alt="余杭" class="hot-word" href="https://hz.sydc.anjuke.com/xzl-shou/yuhang/" target="_self" _soj="SearchBar">余杭</a>  
                         </div>
                     </div>
                     <i class="solid-line line-mag float_l" style="height: 121px"></i>
@@ -867,7 +802,7 @@ export default {
             this.$store.dispatch('Login', this.loginForm).then(data => {
               this.loading = false
               if ("success" === data.result) {
-                this.getLoginInfo();
+                // this.getLoginInfo();
                 // this.isLogined = true;
                 this.dialogFormVisible1 = false;
               } else {
